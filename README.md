@@ -9,5 +9,4 @@ Fundamental of Protocol Modbus communication for control system and Data
 
 ## Installation
 1. installation pymodbus version 2.5.3
-``` python3 -m pip install pymodbus==2.5.3
-```
+``` python3 -m pip install pymodbus==2.5.3 ```
